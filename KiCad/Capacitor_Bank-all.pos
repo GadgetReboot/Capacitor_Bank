@@ -1,0 +1,48 @@
+### Footprint positions - created on 2024-08-22T08:35:43-0400 ###
+### Printed by KiCad version 8.0.4
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val         Package                                                 PosX       PosY       Rot  Side
+G***      LOGO        pcb_way_logo                                         64.2500    61.2500  180.0000  bottom
+C1        1nF         C_Disc_D3.8mm_W2.6mm_P2.50mm                         15.5860    56.3540  180.0000  top
+C2        1nF         C_Disc_D3.8mm_W2.6mm_P2.50mm                         20.3860    53.6540  180.0000  top
+C3        1nF         C_Disc_D3.8mm_W2.6mm_P2.50mm                         15.6360    51.0540  180.0000  top
+C4        1nF         C_Disc_D3.8mm_W2.6mm_P2.50mm                         20.3860    48.5540  180.0000  top
+C5        1nF         C_Disc_D3.8mm_W2.6mm_P2.50mm                         15.6360    45.7040  180.0000  top
+C6        1nF         C_Disc_D3.8mm_W2.6mm_P2.50mm                         20.3860    43.2040  180.0000  top
+C7        1nF         C_Disc_D3.8mm_W2.6mm_P2.50mm                         15.6360    40.8540  180.0000  top
+C8        1nF         C_Disc_D3.8mm_W2.6mm_P2.50mm                         20.3860    38.3540  180.0000  top
+C9        1nF         C_Disc_D3.8mm_W2.6mm_P2.50mm                         15.6360    36.0040  180.0000  top
+C10       10nF        C_Disc_D4.7mm_W2.5mm_P5.00mm                         17.7860    24.0040  180.0000  top
+C11       10nF        C_Disc_D4.7mm_W2.5mm_P5.00mm                         25.0360    21.5040  180.0000  top
+C12       10nF        C_Disc_D4.7mm_W2.5mm_P5.00mm                         17.7140    18.9460  180.0000  top
+C13       10nF        C_Disc_D4.7mm_W2.5mm_P5.00mm                         25.0360    16.3040  180.0000  top
+C14       10nF        C_Disc_D4.7mm_W2.5mm_P5.00mm                         17.7860    13.8540  180.0000  top
+C15       10nF        C_Disc_D4.7mm_W2.5mm_P5.00mm                         25.0360    10.8540  180.0000  top
+C16       10nF        C_Disc_D4.7mm_W2.5mm_P5.00mm                         17.7860     8.6540  180.0000  top
+C17       10nF        C_Disc_D4.7mm_W2.5mm_P5.00mm                         25.0360     5.4040  180.0000  top
+C18       10nF        C_Disc_D4.7mm_W2.5mm_P5.00mm                         17.7860     3.7040  180.0000  top
+C19       100nF       C_Disc_D10.5mm_W5.0mm_P7.50mm                        30.5140    53.2460    0.0000  top
+C20       100nF       C_Disc_D10.5mm_W5.0mm_P7.50mm                        42.5140    53.1960    0.0000  top
+C21       100nF       C_Disc_D10.5mm_W5.0mm_P7.50mm                        54.5140    53.2460    0.0000  top
+C22       100nF       C_Disc_D10.5mm_W5.0mm_P7.50mm                        30.5140    45.7960    0.0000  top
+C23       100nF       C_Disc_D10.5mm_W5.0mm_P7.50mm                        42.5140    45.7460    0.0000  top
+C24       100nF       C_Disc_D10.5mm_W5.0mm_P7.50mm                        54.5140    45.7960    0.0000  top
+C25       100nF       C_Disc_D10.5mm_W5.0mm_P7.50mm                        30.5640    38.3460    0.0000  top
+C26       100nF       C_Disc_D10.5mm_W5.0mm_P7.50mm                        42.6140    38.2960    0.0000  top
+C27       100nF       C_Disc_D10.5mm_W5.0mm_P7.50mm                        54.5140    38.2960    0.0000  top
+C28       1uF         C_Rect_L16.5mm_W5.0mm_P15.00mm_MKT                   31.7640    17.7460   90.0000  top
+C29       1uF         C_Rect_L16.5mm_W5.0mm_P15.00mm_MKT                   39.5040    17.8640   90.0000  top
+C30       1uF         C_Rect_L16.5mm_W5.0mm_P15.00mm_MKT                   47.2640    17.9460   90.0000  top
+C31       1uF         C_Rect_L16.5mm_W5.0mm_P15.00mm_MKT                   55.0540    17.8640   90.0000  top
+C32       1uF         C_Rect_L16.5mm_W5.0mm_P15.00mm_MKT                   62.5040    17.8140   90.0000  top
+C33       1uF         C_Rect_L16.5mm_W5.0mm_P15.00mm_MKT                   29.8640    11.6460    0.0000  top
+C34       1uF         C_Rect_L16.5mm_W5.0mm_P15.00mm_MKT                   49.3140    11.6960    0.0000  top
+C35       1uF         C_Rect_L16.5mm_W5.0mm_P15.00mm_MKT                   29.8640     4.0960    0.0000  top
+C36       1uF         C_Rect_L16.5mm_W5.0mm_P15.00mm_MKT                   49.3140     4.1460    0.0000  top
+J1        Conn_01x02  PinHeader_1x02_P2.54mm_Vertical                      36.9240    61.3140   90.0000  top
+SW1       SW_DIP_x09  SW_DIP_SPSTx09_Slide_9.78x25.04mm_W7.62mm_P2.54mm     2.1790    56.4460    0.0000  top
+SW2       SW_DIP_x09  SW_DIP_SPSTx09_Slide_9.78x25.04mm_W7.62mm_P2.54mm     2.0940    23.9460    0.0000  top
+SW3       SW_DIP_x09  SW_DIP_SPSTx09_Slide_9.78x25.04mm_W7.62mm_P2.54mm    68.8040    56.5090    0.0000  top
+SW4       SW_DIP_x09  SW_DIP_SPSTx09_Slide_9.78x25.04mm_W7.62mm_P2.54mm    68.9240    23.9460    0.0000  top
+## End
