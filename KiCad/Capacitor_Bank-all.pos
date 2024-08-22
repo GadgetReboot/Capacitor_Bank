@@ -1,18 +1,18 @@
-### Footprint positions - created on 2024-08-22T08:35:43-0400 ###
+### Footprint positions - created on 2024-08-22T09:29:24-0400 ###
 ### Printed by KiCad version 8.0.4
 ## Unit = mm, Angle = deg.
 ## Side : All
 # Ref     Val         Package                                                 PosX       PosY       Rot  Side
 G***      LOGO        pcb_way_logo                                         64.2500    61.2500  180.0000  bottom
-C1        1nF         C_Disc_D3.8mm_W2.6mm_P2.50mm                         15.5860    56.3540  180.0000  top
-C2        1nF         C_Disc_D3.8mm_W2.6mm_P2.50mm                         20.3860    53.6540  180.0000  top
-C3        1nF         C_Disc_D3.8mm_W2.6mm_P2.50mm                         15.6360    51.0540  180.0000  top
-C4        1nF         C_Disc_D3.8mm_W2.6mm_P2.50mm                         20.3860    48.5540  180.0000  top
-C5        1nF         C_Disc_D3.8mm_W2.6mm_P2.50mm                         15.6360    45.7040  180.0000  top
-C6        1nF         C_Disc_D3.8mm_W2.6mm_P2.50mm                         20.3860    43.2040  180.0000  top
-C7        1nF         C_Disc_D3.8mm_W2.6mm_P2.50mm                         15.6360    40.8540  180.0000  top
-C8        1nF         C_Disc_D3.8mm_W2.6mm_P2.50mm                         20.3860    38.3540  180.0000  top
-C9        1nF         C_Disc_D3.8mm_W2.6mm_P2.50mm                         15.6360    36.0040  180.0000  top
+C1        1nF         C_Disc_D4.7mm_W2.5mm_P5.00mm                         17.4910    56.3540  180.0000  top
+C2        1nF         C_Disc_D4.7mm_W2.5mm_P5.00mm                         24.8310    53.6540  180.0000  top
+C3        1nF         C_Disc_D4.7mm_W2.5mm_P5.00mm                         17.5410    51.0540  180.0000  top
+C4        1nF         C_Disc_D4.7mm_W2.5mm_P5.00mm                         24.8310    48.5540  180.0000  top
+C5        1nF         C_Disc_D4.7mm_W2.5mm_P5.00mm                         17.5410    45.7040  180.0000  top
+C6        1nF         C_Disc_D4.7mm_W2.5mm_P5.00mm                         24.8310    43.2040  180.0000  top
+C7        1nF         C_Disc_D4.7mm_W2.5mm_P5.00mm                         17.5410    40.8540  180.0000  top
+C8        1nF         C_Disc_D4.7mm_W2.5mm_P5.00mm                         24.8310    38.3540  180.0000  top
+C9        1nF         C_Disc_D4.7mm_W2.5mm_P5.00mm                         17.5410    36.0040  180.0000  top
 C10       10nF        C_Disc_D4.7mm_W2.5mm_P5.00mm                         17.7860    24.0040  180.0000  top
 C11       10nF        C_Disc_D4.7mm_W2.5mm_P5.00mm                         25.0360    21.5040  180.0000  top
 C12       10nF        C_Disc_D4.7mm_W2.5mm_P5.00mm                         17.7140    18.9460  180.0000  top
